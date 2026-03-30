@@ -1,1 +1,25 @@
-细节增强三个数据集
+# datasets
+datasets/*
+!datasets/README.md
+
+# MATLAB 临时文件
+*.asv
+*.m~
+*.mlx.autosave
+*.autosave
+slprj/
+codegen/
+resources/project/
+
+# 日志 / 临时文件
+*.log
+*.tmp
+
+# 编辑器缓存
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
